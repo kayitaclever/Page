@@ -1,0 +1,330 @@
+.topnave{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20%;
+     padding-right: 20%;
+    
+    
+}
+.front{
+    margin-top: 3%;
+    font-size: 20px;
+    background-color: orange;
+}
+.BrickHouse{
+    margin-top: 7%;
+    margin-left: 5%;
+    font-size: 20px;
+
+}
+.Catalog{
+    margin-left: 20%;
+    margin-top: -1.5%;
+    font-size: 20px;
+}
+.input{
+    margin-left: 27%;
+    margin-top: -3.5%;
+}
+.search{
+    margin-left: 28%;
+    
+}
+.heart{
+    margin-left: 60%;
+    margin-top:-1.5% ;
+}
+.shopping{
+    margin-left: 65%;
+    margin-top: -1.8%;
+
+}
+.profile{
+    margin-left:70%;
+    margin-top: -1.7%;
+
+}
+.BrickHouse img{
+    margin-top: -5%;
+    width: 600px;
+}
+
+      
+    
+.content2{
+    padding: 60px;
+    border: solid;
+    border-color:gray;
+    margin-left: 60%;
+    margin-top: -20%;
+}
+.select{
+    font-size: 30px;
+    font-weight: 800;  
+}
+.price{
+    margin-top: 3%;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Age{
+    margin-top: 3%;
+    font-size: 20px;
+    font-weight: 600 ;
+}
+.robot2 img{
+    margin-top: 10%;
+    width: 200px;
+    margin-left: 5%;
+    
+}
+.robot3 img{
+    width: 200px;
+    margin-left: 30%;
+    margin-top: -25%;
+}
+.robot4 img{
+    width: 200px;
+    margin-left: 57%;
+    margin-top: -25%;
+
+}
+.robot5 img{
+    width: 200px;
+    margin-left:80% ;
+    margin-top: -20%;
+}
+.series{
+    padding-left: 60px;
+    padding-top: 10px;
+    
+}
+.solo{
+    margin-top: 3%;
+    font-size: 20px;
+    font-weight: 600;
+}
+.selectyy{
+margin-top: 3%;
+padding-left: 60px;
+padding-top: 10px;
+background-color: orange;
+color: white;
+    
+    
+}
+.Recently{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 40px;
+    font-weight: 800;
+}.image1 img{
+    width: 200px;
+    margin-left: 5%;
+}
+.image2 img{
+    width: 200px;
+    margin-left: 25%;
+    margin-top: -17%;
+
+    
+}
+.series1{
+
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 45%;
+}
+.image3 img{
+    width: 200px;
+    margin-left: 50%;
+    margin-top: -20%;
+}
+.image4 img{
+    width:200px ;
+    margin-left: 75%;
+    margin-top: -25%;
+}
+.pic2 img{
+    width: 400px;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.pic3 img{
+    width: 400px;
+    margin-left: 38%;
+    margin-top: -20%;
+
+}
+.pic4 img{
+    width: 400px;
+    margin-left: 72%;
+    margin-top: -20%;
+}
+
+
+.robot img{
+    width: 400px;
+    
+}
+.log1 img{
+    width: 400px;
+    margin-left: 5%;
+    
+}
+.log2 img{
+    width:400px ;
+    margin-left: 38%;
+    margin-top: -15%;
+}
+.pic6 img{
+    width: 400px;
+    margin-left: 72%;
+    margin-top: -18%;
+
+}
+.pic7 img{
+    margin-left: 5%;
+    margin-top: -5%;
+}
+.robot img{
+    width: 250px;
+    margin-left: 30%;
+    margin-top: -11%;
+}
+.more{
+    background-color: orange;
+    margin-top: 5%;
+    padding: 20px;
+    margin-left: 50%;
+}
+.Discounts{
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 50%;
+    margin-top: 4%;
+}
+
+.holiday img{
+    width: 300px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.birthday img{
+    width: 300px;
+    margin-left: 40%;
+    margin-top: -15%;
+}
+.avie img{
+    width: 300px;
+    margin-left: 70%;
+    margin-top: -20%;
+}
+.year{
+  margin-left: 10%;
+  margin-top: -3%;
+  font-weight: 600;
+}
+.promo{
+    margin-left: 45%;
+    margin-top: -1%;
+    font-weight: 600;
+
+}
+.explore{
+margin-left: 75%;
+font-weight: 600;
+}
+.price1{
+    font-size: 20px;
+    margin-left: 85%;
+    margin-top: -2%;
+    color: red;
+}
+.price2{
+    font-size: 20px;
+    margin-left: 65%;
+    margin-top: -4%;
+    color:red;
+}
+.price3{
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: -4%;
+    color: red;
+}
+.price4{
+    font-size: 20px;
+    margin-left: 10%;
+    margin-top: -1%;
+    color: red;
+}
+.price5{
+    font-size: 20px;
+    color: red;
+    margin-left: 85%;
+    margin-top: -2%;
+}
+.price6{
+    font-size: 20px;
+    color: red;
+    margin-left: 60%;
+    margin-top: -4%;
+}
+.price7{
+    font-size: 20px;
+    color: red;
+    margin-left: 35%;
+    margin-top: -4%;
+}
+
+.price8{
+    font-size:20px ;
+    color: red;
+    margin-left: 10%;
+    margin-top: -1%;
+
+}
+.orange{
+    margin-left: 5%;
+    font-size: 20px;
+    background-color: orange;
+    padding: 20px;
+}
+.cont1{
+    margin-left: 5%;
+
+}
+.cont2{
+    margin-left:25%;
+    margin-top: -19%;
+
+}
+.cont3{
+    margin-left: 45%;
+    margin-top: -19%;
+}
+.cont4{
+    margin-left: 65%;
+    margin-top: -21%;
+}
+.all{
+    margin-left: 5%;
+    background-color: blueviolet;
+    padding: 55px;
+    
+}
+.game1 img{
+width: 300px;
+margin-left: 50%;
+margin-top: -18%;
+}
+.game2 img{
+    width: 300px;
+    margin-left: 75%;
+    margin-top: -25%;
+
+}
+.game3 img{
+
+}
