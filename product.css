@@ -1,0 +1,253 @@
+.list{
+    display: flex;
+    margin-left: 20%;   
+} 
+.list a{
+    padding: 30px;
+
+
+}
+.flag {
+    width: 70px;
+    margin-left: 20%;
+}
+
+@media(max-width:700px){
+    .list a{
+        padding: 15px;
+    }
+    .list{
+            margin-left: 1px;   
+    } 
+}
+
+
+
+/* ------------ */
+
+.main-cards{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.card1{
+    border: solid;
+    margin: .4em;
+}
+
+@media(max-width:500px){
+    .main-cards{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .card1{
+        
+    }
+}
+#brick{
+    margin-left: 5%;
+    font-size: 20px;
+    
+}
+.catalog{
+    margin-left: 3%;
+    padding: 5px;
+    border-color: whitesmoke;
+}
+#search{
+ padding-right: 180px; 
+ padding-top: 8px;
+ padding-bottom: 8px;
+ margin-left: 3%;
+ border-color: white;
+ 
+
+}
+.icons{
+    margin-top: -2.5%;
+    margin-left: 80%;   
+
+ }
+ .all{
+    background-color:orange;
+    padding: 30px;
+ }
+ .first{
+    margin-left: 80%;
+ }
+ .foto{
+    width: 600px;
+ }
+.hearder{
+    margin-top: 3%;
+
+}
+.red{
+    margin-top: 5%;
+    border-radius: 10px;
+    color: white;
+    background-color: red;
+}
+
+.first{
+    margin-top: -40%;
+    
+}
+#star{
+    color:orange;
+}
+.Available{
+    color: green;
+}
+#butt{
+    background-color: orange;
+    color: white;
+    border-color: white;
+}
+.add{
+    background-color: orange;
+    color: white;
+    border-color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+#big{
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    margin-left: 5%;
+    padding: 5px;
+}
+.site{
+    background-color: red;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+}.see{
+    margin-left: 8%;
+}
+.arrows{
+    background-color: brown;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+}
+.col2{
+    margin-top: 3%;
+
+}
+.fi{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.second{
+      margin-left: 25%;
+      margin-top: -20%;
+}
+.third{
+    margin-left: 45%;
+    margin-top: -22%;
+}
+.fourth{
+    margin-left: 65%;
+    margin-top: -24%;
+
+}
+.footer{
+    margin-top: 8%;
+
+}
+.brick{
+ font-size: 40px;font-weight: 600;
+ 
+ 
+
+}
+.privacy{
+
+    margin-left: 18%;
+    margin-top: -5%;
+}
+.cookies{
+margin-left: 28%;
+margin-top: -2.5%;
+}
+.copyright{
+    margin-left: 34%;
+    margin-top: -2.7%;
+}
+.two{
+    background-color: blueviolet;
+    color: white;
+}
+.photos{
+margin-top: 10%;
+
+}
+.buttons{
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+.about{
+    padding: 5px 30px;
+    border-color: white;
+    border: solid;
+    background-color: yellow;
+    color: white;
+    margin-left: 20%;
+}
+.reviews{
+    padding: 5px 20px;
+      border: solid;
+    background-color: white;
+    border-color: whitesmoke;
+    margin-left: 2%;
+    
+}
+.videos{
+    margin-left: 2%;
+    padding: 5px 30px ;
+    border: solid;
+    background-color: white;
+    border-color: whitesmoke;
+}
+.words{
+    margin-top: 8%;
+    margin-left: 25%;
+    font-size: 15px;
+}
+.functions{
+    margin-left: 40%;
+    margin-top: 4%;
+    font-size: 20px;
+    font-weight: 800;
+}
+#p1{
+    margin-left: 10%;
+    width: 300px;
+    border: solid;
+    border-color: brown;
+}
+#p2{
+    margin-left: 10%;
+    width: 300px;
+    border: solid;
+    border-color: brown;
+}
+.p3{
+    margin-top: 5%;
+    margin-left: 30%;
+    width: 300px;
+    border: solid;
+    border-color: brown;
+}
+.may{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 30px;
+    font-weight: 800;
+}
+.images{
+    margin-top: 5%;
+}

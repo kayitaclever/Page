@@ -18,6 +18,7 @@
 
 }
 .Catalog{
+    padding: 5px 10px;
     margin-left: 20%;
     margin-top: -1.5%;
     font-size: 20px;
@@ -55,8 +56,9 @@
     padding: 60px;
     border: solid;
     border-color:gray;
-    margin-left: 60%;
     margin-top: -20%;
+    margin-left: 60%;
+    
 }
 .select{
     font-size: 30px;

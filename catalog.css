@@ -1,0 +1,267 @@
+@media  (max-width:700px) {
+
+    Nav{
+        width: 50px;
+        
+    }
+        
+    }
+    
+    Nav{
+        display: flex;
+        justify-content: space-between;
+        padding-left: 25%;
+        padding-right: 25%;
+        font-size: 20px;
+        font-weight: 600;
+    }
+    #flag {
+    margin-left: 90%;
+    width: 100px;
+    margin-top: -3%;
+    }
+    .Brick{
+        margin-left: 5%;
+        font-size: 30px;
+        margin-top: 3%;
+    }
+    .Cat{
+        margin-left: 20%;
+        margin-top: -1.5%;
+    }
+    .Catalog{
+        font-size: 15px;
+        margin-left: 3%;
+        margin-top: -1.5%;
+    }
+    
+    #search{
+        margin-left: 5%;
+        border: solid;
+        padding-right: 250px;
+        background-color: white;
+        padding-top: 5px;
+        border-radius: 10px; 
+    }
+    #heart{
+        margin-left: 20%;
+    }
+    #shopping{
+        margin-left: 2%;
+    }
+    
+    #profile{
+        margin-left: 2%;
+    }
+    #home{
+        margin-top: 2%;
+    }
+    #lego{
+        margin-left: 3%;
+        margin-top: -1.2%;
+    }
+    #star{
+        margin-left: 50%;
+        margin-top: -2%;
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .black{
+        background-color: black;
+        color: white;
+    }
+    .line1{
+        margin-top: 5%;
+        margin-left: 25%;
+    }
+    #foto1{
+        width: 300px;
+    }
+        
+    #foto2{
+        width: 300px;
+    }
+    #foto3{
+        width: 300px;
+    }
+    .line2{
+        margin-top: 5%;
+        margin-left: 25%;
+    }
+    #foto4{
+        width: 300px;
+    }
+    #foto5{
+        width: 300px;
+    }
+    #foto6{
+        width: 300px;
+    }
+    .line3{
+        margin-top: 5%;
+        margin-left: 25%;
+    }
+    #foto7{
+        width: 300px;
+    }
+    #foto8{
+        width: 300px;
+    }
+    #foto9{
+        width: 300px;
+    }
+    .line4{
+    margin-top: 5%;
+    margin-left: 25%;
+    }
+    #foto10{
+        width: 300px;
+    }
+    #foto11{
+        width: 300px;
+    }
+    #foto12{
+        width: 300px;
+    }
+    .line5{
+    margin-top: 5%;
+    margin-left: 25%;
+    }
+    #foto13{
+        width: 300px;
+    }
+    #foto14{
+        width: 300px;
+    }
+    #foto15{
+        width: 300px;
+    }
+    .front{
+        margin-top: 2%;
+        background-color: olivedrab;
+        padding: 20px  ;
+    }
+    
+        
+    
+    
+    .first{
+        margin-left: 5%;
+    }
+    .second{
+    
+        margin-left: 30%;
+        margin-top: -20%;
+    }
+    .third{
+        margin-left: 50%;
+        margin-top: -21%;
+    
+    }
+    .fourth{
+        margin-left: 70%;
+        margin-top: -24%;
+    }
+    
+        
+    .footer{
+        margin-top: 12%;
+        margin-left: 5%;
+        display: flex;
+        
+    }
+    .brick{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .privacy{
+        margin-top: 3.5%;
+        margin-left: 5%;
+    }
+    .cookies{
+        margin-left: 5%;
+        margin-top: 3.5%;
+    }
+    .copyright{
+        margin-left: 5%;
+        margin-top: 3.5%;
+    }
+    .all{
+         background-color: navy;
+        color: white;
+    }
+    .seeMore{
+        margin-top: 5%;
+        margin-left: 40%;
+        padding: 10px 60px;
+        background-color: yellowgreen;
+        color: white;
+        border-radius: 10px;
+    }
+    .content2{
+        margin-top: -120%;
+        border: solid;
+        border-radius: 20px;
+        width: 250px;
+        padding-left: 20px;
+    }
+    button{
+        border-radius: 20px;
+    
+    }
+    .butts{
+        margin-top: 80%;
+        margin-left: 38%;
+    }
+    #kaya{
+        background-color: yellow;
+    }
+    .one{
+        
+    }
+    #f{
+        background-color: palevioletred;
+        color: white;
+        
+    
+    }
+    #s{
+        background-color: grey;
+        margin-left: 18%;
+    }
+    #t{
+        background-color: yellow;
+        color: white;
+        margin-left: 10%
+        
+    }
+    #fo{
+        background-color: yellow;
+        margin-left: 10%;
+    }
+    #fi{
+        background-color: palevioletred;
+        color: white;
+        margin-left: 70%;
+    
+    }
+    #si{
+    background-color: yellow;
+    margin-left: 90%;
+    }
+    .chili{
+        margin-left: 30%;
+    }
+    #jedi{
+        margin-top: -5%;
+    }
+    #bomber{
+        margin-left: 23%;
+        margin-top: -5%;
+    }
+    #walker{
+        margin-left: 59%;
+        margin-top: -4%;
+    }
+        
+    
