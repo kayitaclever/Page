@@ -1,0 +1,179 @@
+#header{
+    text-align: center;
+}
+.emmy{
+    background-color: orange;
+    padding: 20px;
+    color: white;
+}
+#ricky{
+    font-size: 28px;
+}
+#velo{
+    margin-left: 40%;
+}
+#phone{
+    margin-left: 10%;
+}
+.first{
+    margin-left: 14%;
+}
+#kyr{
+    padding: 15px 100px;
+    border-radius: 5px
+}
+.last{
+    margin-left: 48%;
+    margin-top: -15%;
+}
+#kryi{
+    padding: 15px 140px;
+    border-radius: 5px
+}
+#kry{
+    padding: 15px 140px;
+    border-radius: 5px
+}
+#krye{
+    padding: 15px 100px;
+    border-radius: 5px;
+}
+#info{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.deli{
+    margin-left: 1100px;
+    border: solid;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: -15%;
+    width: 15%;
+}
+#save{
+    padding: 10px 50px;
+    border-color: green;
+    color: green;
+    border-radius: 10px
+}
+#pro{
+    padding: 10px 58px;
+    border-radius: 10px
+}
+#con{
+    padding: 10px 50px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px
+}
+#deli{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -4%;
+}
+.lasoi{
+    margin-left: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#vale{
+    font-weight: bold;
+}
+#cale{
+    margin-left: 45%;
+    margin-top: -4%;
+    color: red;
+}
+#winny{
+    font-weight: bold;
+}
+#day{
+    margin-left: 26%;
+    margin-top: -4%;
+}
+#leina{
+    margin-left: 45%;
+    margin-top: -4%;
+    color: green;
+}
+#ant{
+    font-weight: bold;
+}
+#nai{
+    margin-left: 45%;
+    margin-top: -4%;
+    color: green;
+}
+#fo{
+    margin-left: 35%;
+}
+#for{
+    margin-left: 37%;
+}
+#pay{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#money{
+}
+#house{
+    text-align: center;
+}
+@media only screen and (max-width: 768px) {
+    .text {
+      padding: 5px;
+    }
+    .emmy {
+      flex-direction: column;
+      align-items: flex-start;
+      margin-bottom: 5px;
+    }
+    #ricky {
+      font-size: 18px;
+      margin-right: 0;
+      margin-bottom: 5px;
+    }
+    #velo, #phone {
+      font-size: 14px;
+      margin-left: 0;
+      display: block;
+    }
+    .first, .last {
+      margin-bottom: 10px;
+        display: block;
+    }
+    .first button, .last button {
+      font-size: 14px;
+    }
+    #kryi{
+        margin-top: 35px;
+        margin-right: 48%;
+    }
+    #meli{
+        margin-top: 58px;
+    }
+    .deli p {
+      font-size: 14px;
+    }
+    .deli button {
+      margin: 5px 0;
+      font-size: 14px;
+    }
+    #deli, #pay {
+      font-size: 16px;
+      margin: 10px 0;
+    }
+    .lasoi p {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+    #money, .fa-apple {
+      font-size: 20px;
+      margin-right: 5px;
+    }
+    #house {
+      font-size: 12px;
+      margin-top: 10px;
+    }
+  }
